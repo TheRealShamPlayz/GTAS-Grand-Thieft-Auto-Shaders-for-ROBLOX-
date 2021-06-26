@@ -1,1 +1,1 @@
-# GTAS-Grand-Thieft-Auto-Shaders-for-ROBLOX
+# GTAS (Grand Theft Auto Shaders for ROBLOX)
